@@ -1,5 +1,5 @@
-application: fracpete-test
-version: placeholder-001
+application: your-app-id
+version: redirect-001
 runtime: python27
 api_version: 1
 threadsafe: true
