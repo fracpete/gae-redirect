@@ -3,7 +3,7 @@ import webapp2
 class MainPage(webapp2.RequestHandler):
 
     def get(self):
-        self.redirect("https://weka.waikato.ac.nz/")
+        self.redirect("http://open.fracpete.de/")
 
 application = webapp2.WSGIApplication([
     ('/', MainPage),
